@@ -7,33 +7,33 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/meiranbot/SaveRestrictedContentBot",
     "website": "",
     "success_url": "https://t.me/DroneBots",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "6a309d42eda281416f798a554360e6a8"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "28031075"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6140588154:AAEeNl66_QnEwmshiLpcD6KrSIjaIQ764WY"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "AQB958cXLacpOS3GYsktSojurW41Mvw3WE10V4wmWRnWtLVdfG_XSw1qb58ATfoHwRazXArq2AnkSkSf2dJVFDdZnk3BEpaHJFsXm99NiyJdG7sSbWLPQ3DQMZ9vTdclFLGKwdOpwIvUaAP637Ur2_rSLP-v0Ib94T4Qbu7n7ok6rITSkpnd2mrznO8EGeZ9VcDofmYKlnyG8DPEUdjhhexN2JCKfFdjjpXrjymTcHn1nJrfU_uqrWgaCHKWjgNFVfo3qK-1RuFESY807RXFJN9wJ4y7vRPPRJn3t2kX_6ZggnNpk5aH9YiFJSaQp8An5mJMD7Ij0FL9yrxeaVAQFFTxAAAAAVt3SHsA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "5829511291"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "vibrantsamundra"
         }
     },
     "buildpacks": [
